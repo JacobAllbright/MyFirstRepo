@@ -1,0 +1,4 @@
+# Ignore my bin folder
+bin
+# Ignore my .pub key
+.pub key
